@@ -30,3 +30,7 @@ This is a shell script that make use of [Docker Machine](https://github.com/dock
 - Amazon
 - DigitalOcean
 
+
+### Tips
+
+update jmeter version to 3.2
